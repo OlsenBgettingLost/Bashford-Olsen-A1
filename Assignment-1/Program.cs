@@ -20,6 +20,11 @@ when you have completed the game.
 ");
 Console.WriteLine(@"---------------------------------------------------SCROLL AND READ SIDE NOTE ABOVE BEFORE STARTING THE GAME BELOW------
 
+VENTS [V1.1] (first demo)
+BY sharktheshark
+
+
+
 You awaken in a white room...
 nothing but white. small as a bedroom. or an average office.
 use your imagination.
@@ -140,7 +145,7 @@ you know that you had some kind of life. but you die knowing that you will never
             Console.WriteLine(@"
 
 
-There is something about the stairs that scream ''open me''.
+There is something about the door with stairs that scream ''open me''.
 you choose to trust them.
 
 you walk up 5 steps to the right door.
@@ -184,6 +189,10 @@ you glance around. and you see 2...
 
 doors.
 
+
+(ENDING 3/3, FOREVER LOOP [GOOD ENDING])
+
+
 -THE END-
 
 
@@ -213,7 +222,7 @@ you hesitate...
 then you take a deep breath.... and walk into the void.
             
 The door shuts behind you with a slam and the void is replaced with another 
-bright light with no aparent sorce.
+bright light with no aparent source.
 
 Its a smaller white room. much smaller. ahead of you, you see a red button on the wall.
 you think that you've hit a dead end.
@@ -243,7 +252,7 @@ no...?
 the button is still at the same eye level as always.
 
 half hour later. you no longer need to adjust your head up from the button to the 
-cieling. your looking at both now.
+cieling. you're looking at both now.
 the roof is coming down!
 and you now realize that within the next hour or so, 
 you are going to be slowley crushed to death.
@@ -256,6 +265,8 @@ the cieling is pressing you down... slowley.......
 
 
  -splat-
+
+(ENDING 1/3, THE RED BUTTON DEATH ENDING)
 
 ");
     }
@@ -341,7 +352,7 @@ no...?
 the button is still at the same eye level as always.
 
 half hour later. you no longer need to adjust your head up from the button to the 
-cieling. your looking at both now.
+cieling. you're looking at both now.
 the roof is coming down!.
 and you now realize that within the next hour or so, 
 you are going to be slowley crushed to death.
@@ -354,6 +365,9 @@ the cieling is pressing you down... slowley.......
 
 
  -splat-
+
+(ENDING 1/3, RED BUTTON DEATH ENDING)
+
 
 ");
 
@@ -377,7 +391,7 @@ you hesitate...
 then you take a deep breath.... and walk into the void.
 
 The door shuts behind you with a slam and the void is replaced with another 
-bright light with no aparent sorce.
+bright light with no aparent source.
 
 you are met with a hallway. you turn. but where did the door go?
 just another white wall fills its place. you are left with no choice but to wonder through the hall.
@@ -420,6 +434,7 @@ days go by and you starve to death. without knowing anything about who you are o
 you know that you had some kind of life. but you die knowing that you will never get to find that out..... . .   .
 
 
+( ENDING 2/3, LONGEST FOOTBALL GAME EVER ENDING)
 ");
     }
     else if (decisionTwoAgain == "right door with stairs")
@@ -470,6 +485,9 @@ you cant remember your life or who you are or where you came from.
 you glance around. and you see 2... 
 
 doors.
+
+
+( ENDING 3/3, FOREVER LOOP ENDING [GOOD ENDING])
 
 
 -THE END-
